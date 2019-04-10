@@ -1,0 +1,135 @@
+body{
+  margin-top: 50px;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+/* home page intro description  */
+.lead {
+    font-size: 2.25rem;
+    font-weight: 300;
+}
+
+.navbar-brand{
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 900;
+
+}
+
+.navbar-light .navbar-brand {
+    color: #FF6600;
+}
+
+.navbar-light .navbar-nav .nav-link{
+  color: #FF6600;
+}
+
+.navbar-light .navbar-nav .active > .nav-link{
+  color: #000;
+}
+/* container  */
+
+.container{
+  max-width: 1100px;
+}
+/* Nav bar */
+.navbar-light .navbar-nav .active>.nav-lin{
+    color: #FF3300;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom: .5rem;
+    font-weight: 500;
+
+    line-height: 1.2;
+}
+.customwell{
+  background-color: #ff3300;
+  min-height: 250px;
+  min-width: auto;
+  text-align: center;
+  padding-top: 5px;
+}
+
+.customwell h3{
+  color: #ffffff;
+}
+
+.divspace{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.dilipsapkota
+{
+    text-align: center;
+    background-color: #ff3300;
+    height:200px;
+    padding-top:50px;
+    padding-bottom:50px;
+    color: #ffffff;
+    }
+.dil
+{
+    text-align: center;
+    color:green;
+}
+
+
+.card-pricing.popular {
+    z-index: 1;
+    border: 3px solid #007bff;
+}
+.card-pricing .list-unstyled li {
+    padding: .5rem 0;
+    color: #6c757d;
+}
+
+p{
+  font-weight: 400;
+}
+.list-unstyled{
+  font-weight: 400;
+}
+.dili
+{
+    text-align: center;
+}
+.colo{
+  color: #FF6600;
+  text-transform: uppercase;
+}
+
+.btn-dark{
+  background-color: #FF6600;
+  color: #FFFFFF;
+  border: none;
+}
+
+hr {
+
+    border: 1px solid #ff3300;
+
+}
+.connectus{
+
+      text-align: center;
+      background-color: #ff3300;
+      height:300px;
+      padding-top:50px;
+      padding-bottom:50px;
+      color: #ffffff;
+}
+.forms{
+  color: #ff3300;
+}
+.aboutpic
+{
+    text-align: center;
+    background-color: #ff3300;
+    height:560px;
+    padding-top:50px;
+    padding-bottom:50px;
+    color: #ffffff;
+    }
